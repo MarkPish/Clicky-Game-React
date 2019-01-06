@@ -17,7 +17,7 @@
     height: 100%;
     overflow: hidden;
     text-align: center;
-    background: radial-gradient(rgb(197, 90, 240), rgb(138, 40, 230));
+    background: radial-gradient(white, rgb(209, 201, 218));
   }
   
   .card > .img-container > img {
