@@ -1,70 +1,70 @@
 [
     {
         "id": 1,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "http://vignette2.wikia.nocookie.net/megaman/images/9/98/Napalmman.png/revision/latest?cb=20100929020219",
         "clicked": false
     },
     {
         "id": 2,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/9/98/Mega_Man_1_boss_Cut_Man.png",
         "clicked": false
     },
     {
         "id": 3,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/d/dc/Mega_Man_1_clone_boss.png",
         "clicked": false
     },
     {
         "id": 4,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/a/a2/Mega_Man_1_boss_Elec_Man.png",
         "clicked": false
     },{
         "id": 5,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/1/16/Mega_Man_1_boss_Fire_Man.png",
         "clicked": false
     },{
         "id": 6,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/e/e6/Mega_Man_1_boss_Guts_Man.png",
         "clicked": false
     },{
         "id": 7,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/5/51/Mega_Man_1_boss_Ice_Man.png",
         "clicked": false
     },{
         "id": 8,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/thumb/9/9e/MM1_Bomb_Man_8-bit.png/116px-MM1_Bomb_Man_8-bit.png",
         "clicked": false
     },{
         "id": 9,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "http://vignette1.wikia.nocookie.net/villiains/images/1/15/Air_Man_Mega_Man_Wily_Wars_Sprite_1_Right.PNG/revision/latest?cb=20140621161229",
         "clicked": false
     },{
         "id": 10,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://i0.wp.com/esotericgaming.com/wp-content/uploads/2017/12/Mega_Man_2_boss_Quick_Man.png?resize=260%2C228",
         "clicked": false
     },{
         "id": 11,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/5/5d/Mega_Man_2_boss_Heat_Man.png",
         "clicked": false
     },{
         "id": 12,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/b/bf/Mega_Man_2_boss_Flash_Man.png",
         "clicked": false
     },{
         "id": 13,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/d/da/Mega_Man_2_boss_Crash_Man.png",
         "clicked": false
     },{
         "id": 14,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/d/d1/Mega_Man_2_boss_Bubble_Man.png",
         "clicked": false
     },{
         "id": 15,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/e/e5/Mega_Man_2_boss_Wood_Man.png",
         "clicked": false
     },{
         "id": 16,
-        "image": "https://vignette.wikia.nocookie.net/megaman/images/9/98/Napalmman.png",
+        "image": "https://cdn.wikimg.net/en/strategywiki/images/d/de/Mega_Man_2_boss_Wily_Stage_1.png",
         "clicked": false
     },
 
